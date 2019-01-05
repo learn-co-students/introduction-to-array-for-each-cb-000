@@ -1,0 +1,15 @@
+gem pristine executable-hooks --version 1.6.0
+gem pristine ffi --version 1.9.25
+gem pristine gem-wrappers --version 1.4.0
+gem pristine nio4r --version 2.3.1
+gem pristine nokogiri --version 1.10.0
+gem pristine oj --version 2.18.5
+gem pristine websocket-driver --version 0.7.0
+gem pristine executable-hooks --version 1.6.0
+gem pristine ffi --version 1.9.25
+gem pristine gem-wrappers --version 1.4.0
+gem pristine nio4r --version 2.3.1
+gem pristine nokogiri --version 1.10.0
+gem pristine oj --version 2.18.5
+gem pristine websocket-driver --version 0.7.0
+
